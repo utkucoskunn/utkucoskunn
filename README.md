@@ -26,16 +26,16 @@
 <div/>
        
 <div align="left">
-### :man_technologist: About Me :
+   :man_technologist: About Me :
 I am a  Jr. Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Earth.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+ - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- 🌱 I’m currently learning React and Node.js
+ - 🌱 I’m currently learning React and Node.js
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+ - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: utkucoskun@windowslive.com
+ - :mailbox:How to reach me: utkucoskun@windowslive.com
          
    <div/>
 ---
