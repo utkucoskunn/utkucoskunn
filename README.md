@@ -25,7 +25,7 @@
   <img src="https://komarev.com/ghpvc/?username=utkucoskunn&style=flat-square&color=blue" alt=""/>
 <div/>
        
-align="left"
+<div align="left">
 ### :man_technologist: About Me :
 I am a  Jr. Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Earth.
 
@@ -36,7 +36,8 @@ I am a  Jr. Full Stack Developer <img src="https://media.giphy.com/media/WUlplcM
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: utkucoskun@windowslive.com
-                                                                                                               
+         
+   <div/>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
