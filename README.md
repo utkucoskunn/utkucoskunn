@@ -28,7 +28,8 @@
 
    ### :man_technologist: About Me :
    I am a  Jr. Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Earth.
-   - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - 🌱 I’m currently learning React and Node.js
 
