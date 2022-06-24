@@ -1,8 +1,11 @@
 
 <div id="header" align="center">
    Hi ,I'm Utku 👋
-<img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="200"/>
 </div>
+
+<div>
+   <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="200"/>
+<div/>
 
 
 <div id="badges" align="cente>
