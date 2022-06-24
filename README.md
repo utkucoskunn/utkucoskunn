@@ -1,8 +1,9 @@
-### Hi ,I'm Utku 👋
+
 
 <div id="header" align="center">
+   Hi ,I'm Utku 👋
 <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="200"/>
-
+</div>
 
 
 -🌱 I’m currently learning React and Node.js
@@ -20,6 +21,10 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+<div>
+  <img src="https://komarev.com/ghpvc/?username=utkucoskunn&style=flat-square&color=blue" alt=""/>
+  <div/>
   
-  </div>
+  
 
