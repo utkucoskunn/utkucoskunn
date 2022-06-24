@@ -3,7 +3,7 @@
    Hi ,I'm Utku 👋
 </div>
 
-<divalign="center">
+<div align="center">
    <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="200"/>
 <div/>
 
